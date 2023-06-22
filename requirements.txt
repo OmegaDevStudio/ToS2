@@ -1,0 +1,4 @@
+httpx
+uvloop # For Linux only
+aioconsole
+selfcord.py
